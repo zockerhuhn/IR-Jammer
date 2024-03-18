@@ -141,7 +141,7 @@
 
 #  else // Default as for ATmega328 like on Uno, Nano, Leonardo, Teensy 2.0 etc.
 #define IR_RECEIVE_PIN      2 // To be compatible with interrupt example, pin 2 is chosen here.
-#define IR_SEND_PIN         3
+#define IR_SEND_PIN         9
 #define TONE_PIN            4
 #define APPLICATION_PIN     5
 #define ALTERNATIVE_IR_FEEDBACK_LED_PIN 6 // E.g. used for examples which use LED_BUILDIN for example output.

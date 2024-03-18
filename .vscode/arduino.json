@@ -1,3 +1,4 @@
 {
-    "board": "arduino:avr:micro"
+    "board": "arduino:avr:micro",
+    "sketch": "main\\main.ino"
 }
